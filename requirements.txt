@@ -1,4 +1,4 @@
 flask
 openai
-os
 python-dotenv
+
